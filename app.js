@@ -1,4 +1,4 @@
-// this is our buttons that we are going to manipulate
+// this is our elements that we are going to manipulate
 let qoute = document.querySelector("#qoute");
 let author = document.querySelector("#author");
 let button = document.querySelector("#main-button");
